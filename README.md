@@ -8,7 +8,7 @@ _Math is language | Code is tool_
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Seeking+DS+internship+2026;Applied+Math+%2B+Computing+student;Aspiring+Data+Scientist+or+ML;)](https://git.io/typing-svg)
 
 ## About Me
-Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with Python to build practical ML solutions.
+Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with certain programming language to build practical ML solutions.
 
 ## Tech Stack
 <!-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
@@ -60,15 +60,64 @@ Passionate about turning data into actionable insights. The applied math backgro
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teehere&layout=compact&theme=github_dark&exclude_repo=your-repo-name) <br /> -->
 _**Note:** This card shows language usage based on file size in public repositories. It doesn't reflect full skillset_
 
-## Feautured Projects
-<!--
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [**Customer Churn Predictor**](link) | Built classification model to predict customer churn with 85% accuracy | Python, scikit-learn, pandas |
-| [**Sales Dashboard**](link) | Interactive dashboard analyzing 50k+ sales records | SQL, Tableau, Excel |
-| [**Movie Recommender**](link) | Content-based recommendation system using cosine similarity | Python, pandas, Streamlit |
-| [**Housing Price Model**](link) | Linear regression model for house price prediction | Python, numpy, matplotlib |
--->
+## Projects
+
+### 📊 Data Visualization & Reporting
+*Power BI | Dax | Power Query*
+
+- Transformed raw datasets into meaningful visual reports
+- Used **Power Query** for data cleaning, transformation, and merging
+- Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
+- Designed visual reports for business decision-making
+
+[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-)
+
+---
+
+### ⚙️ Job Sequence Problem -- Delivery Scheduling System
+*Java | Data Structure and Algorithm | ArrayList | PriorityQueue*
+
+- Accept delivery orders to maximize total profit while meeting delivery deadline
+- Implemented job scheduling algorithm to optimize task completion
+- Used: Greedy, Task Priority Scheduling (Weighted), Dynamic Programming, Earliest Deadline First (EDF)
+
+[🔗 View Repository](https://github.com/teehere/Job-Sequence-Problem)
+
+---
+
+### 🧾 POS System
+*Python | CRUD | File Handling*
+
+- Built console-based point-of-sale system
+- Manage, update, track, delete stocks, etc
+- Features: membership management, stock management, sales transactions, sales reports, item maintenance
+
+[🔗 View Repository](https://github.com/teehere/POS_System)
+
+---
+
+### 🏕️ Campsite Reservation System
+*Java | OOP Design*
+
+- Practiced object-oriented design and data persistence
+- Admin management
+- Customer management
+- Features: searching, make appointment, reservation cancellation, payment processing, feedbacks, report, etc
+
+
+[🔗 View Repository](https://github.com/teehere/Campsite_Reservation_System)
+
+---
+
+### 🍔 Food Stall Tracking & Review System
+*C++ | CRUD | File Handling*
+
+- Staff and menu management system
+- Customer review/feedback collection and rating aggregation
+- Average rating calculation
+- Data store in text file
+
+[🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System)
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
