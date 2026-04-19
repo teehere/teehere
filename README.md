@@ -120,8 +120,8 @@ _**Note:** This card shows language usage based on file size in public repositor
 [🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System)
 
 ## ⚡Fun Facts
-- I debugged for an hour once. The problem? I wrote `=` instead of `==`. 💀
-- I talk to my data sometimes. "Why are you null? WHERE IS YOUR VALUE?!" 😅
+- I debugged for an hour once. The problem? I wrote `=` instead of `==`, when I first learning programming language. 💀
+- I used to talk to my data sometimes. "Why are you null? WHERE IS YOUR VALUE?!" Still do, actually. 😅
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
