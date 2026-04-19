@@ -1,13 +1,26 @@
-## Hi there 👋
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=✨Welcome+To+My+Profile✨&fontSize=40&fontAlignY=35&animation=fadeIn&desc=My+Name+is+Tee+Le+Xuan&descAlignY=50" />
+  
+</div>
 
-🎓 **Bachelor of Science (Honours) Applied Mathematics with Computing** <br />
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Turning+Math+into+Code;Aspiring+Data+Scientist/ML;" />
+
+</div>
+
+<div align="center">
+
+## 🎓 **Bachelor of Science (Honours) Applied Mathematics with Computing**
+
 _Math is language | Code is tool_ 
-<!--🔢 Turning math into insights | 🤖 Aspiring Data Scientist / ML Engineer  
-🎯 Actively seeking **Data Science & ML internships** for [Year] -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Seeking+DS+internship+2026;Applied+Math+%2B+Computing+student;Aspiring+Data+Scientist+or+ML;)](https://git.io/typing-svg)
+</div>
 
 ## About Me
+🎓 Pursuing Degree... <br />
+
 Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with certain programming language to build practical ML solutions.
 
 ## Tech Stack
