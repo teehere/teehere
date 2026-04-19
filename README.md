@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🎓 **Applied Mathematics with Computing** Student  
-🔢 Math is language | 💻 Code is tool  
+🎓 **Bachelor of Science (Honours) Applied Mathematics with Computing** <br />
+_Math is language | Code is tool_ 
 <!--🔢 Turning math into insights | 🤖 Aspiring Data Scientist / ML Engineer  
 🎯 Actively seeking **Data Science & ML internships** for [Year] -->
 
