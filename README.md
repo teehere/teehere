@@ -48,6 +48,7 @@ Passionate about turning data into actionable insights. The applied math backgro
     <td><strong>🛠️ Tools</strong></td>
     <td>
       <!-- <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> -->
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white" />
