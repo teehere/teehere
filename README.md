@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=✨Welcome+To+My+Profile✨&fontSize=40&fontAlignY=35&animation=fadeIn&desc=My+Name+is+Tee+Le+Xuan&descAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=✨Welcome+To+My+Profile✨&fontSize=40&fontAlignY=35&animation=fadeIn&descAlignY=50" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Turning+Math+into+Code;Aspiring+Data+Scientist/ML;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=My+Name+is+Tee+Le+Xuan;" />
 
 </div>
 
