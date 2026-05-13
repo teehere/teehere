@@ -84,7 +84,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
 - Designed visual reports for business decision-making
 
-[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-)
+[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
 
 ---
 
