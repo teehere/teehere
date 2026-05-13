@@ -131,7 +131,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Average rating calculation
 - Data store in text file
 
-[🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System)
+[🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System) | [LiveDemo](https://youtu.be/dHpP9Q9Uipo)
 
 ## ⚡Fun Facts
 - I debugged for an hour once. The problem? I wrote `=` instead of `==`, when I first learning programming language. 💀
