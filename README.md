@@ -106,7 +106,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Manage, update, track, delete stocks, etc
 - Features: membership management, stock management, sales transactions, sales reports, item maintenance
 
-[🔗 View Repository](https://github.com/teehere/POS_System)
+[🔗 View Repository](https://github.com/teehere/POS_System) | [LiveDemo](https://youtu.be/qssYV3Tnn2s)
 
 ---
 
