@@ -95,7 +95,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Implemented job scheduling algorithm to optimize task completion
 - Used: Greedy, Task Priority Scheduling (Weighted), Dynamic Programming, Earliest Deadline First (EDF)
 
-[🔗 View Repository](https://github.com/teehere/Job-Sequence-Problem)
+[🔗 View Repository](https://github.com/teehere/Job-Sequence-Problem) | [LiveDemo](https://youtu.be/yTVHgnHJgdQ)
 
 ---
 
