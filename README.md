@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=My+Name+is+Tee+Le+Xuan;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Seekling+Oct+2026+Internship;" />
 
 </div>
 
