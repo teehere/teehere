@@ -55,13 +55,13 @@ Passionate about turning data into actionable insights. The applied math backgro
       <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><strong>🛠️ Currently Exploring</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ## Github Stats 
@@ -75,18 +75,6 @@ Passionate about turning data into actionable insights. The applied math backgro
 _**Note:** This card shows language usage based on file size in public repositories. It doesn't reflect full skillset_
 
 ## Projects
-
-### 📊 Data Visualization & Reporting
-*Power BI | Dax | Power Query*
-
-- Transformed raw datasets into meaningful visual reports
-- Used **Power Query** for data cleaning, transformation, and merging
-- Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
-- Designed visual reports for business decision-making
-
-[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
-
----
 
 ### ⚙️ Job Sequence Problem -- Delivery Scheduling System
 *Java | Data Structure and Algorithm | ArrayList | PriorityQueue*
@@ -133,9 +121,17 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 [🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System) | [LiveDemo](https://youtu.be/dHpP9Q9Uipo)
 
-## ⚡Fun Facts
-- I debugged for an hour once. The problem? I wrote `=` instead of `==`, when I first learning programming language. 💀
-- I used to talk to my data sometimes. "Why are you null? WHERE IS YOUR VALUE?!" Still do, actually. 😅
+---
+
+### 📊 Data Visualization & Reporting
+*Power BI | Dax | Power Query*
+
+- Transformed raw datasets into meaningful visual reports
+- Used **Power Query** for data cleaning, transformation, and merging
+- Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
+- Designed visual reports for business decision-making
+
+[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
