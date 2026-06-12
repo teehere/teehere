@@ -14,7 +14,8 @@
 
 ## 🎓 **Bachelor of Science (Honours) Applied Mathematics with Computing**
 
-_Math is language | Code is tool_ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teelexuan@gmail.com)
 
 </div>
 
@@ -133,10 +134,6 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 [🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/teehere)
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teelexuan@gmail.com) -->
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/your-username) -->
 
 <!--
