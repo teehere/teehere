@@ -15,7 +15,7 @@
 ## 🎓 **Bachelor of Science (Honours) Applied Mathematics with Computing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tee-le-xuan-a16187318/?skipRedirect=true)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teelexuan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lexuantee1@gmail.com)
 
 </div>
 
