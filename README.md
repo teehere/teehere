@@ -100,7 +100,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - **Highest AUC**: Random Forest (0.8224)
 - Deployed using **Flask** and **Streamlit** with interactive web interface
 
-[🔗 View Repository]()  
+[🔗 View Repository](https://github.com/teehere/Diabetes-Prediction-Using-Machine-Learning)  
 
 ---
 
