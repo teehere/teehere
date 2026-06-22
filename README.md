@@ -80,7 +80,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 ### Diabetes Prediction by Using Machine Learning
 *Python | EDA | Data Cleaning | Feature Engineering | Model Building*
 
-- Built complete ML pipeline for diabetes prediction using clinical data
+- Built ML pipeline for diabetes prediction using clinical data
 - Handled missing values with **KNN Imputation** and outliers with **Z-score**
 - Created 6 new features (interaction features, metabolic score, binary indicators)
 - Applied **SMOTETomek** for class imbalance handling
