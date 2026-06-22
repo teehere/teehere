@@ -22,7 +22,7 @@
 ## About Me
 🎓 Pursuing Degree... <br />
 
-Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with certain programming language to build practical ML solutions.
+Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with certain programming language to build practical solutions.
 
 ## Tech Stack
 <!-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
