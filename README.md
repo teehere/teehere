@@ -88,6 +88,22 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 ---
 
+### Diabetes Prediction by Using Machine Learning
+*Python | EDA | Data Cleaning | Feature Engineering | Model Building*
+
+- Built complete ML pipeline for diabetes prediction using clinical data
+- Handled missing values with **KNN Imputation** and outliers with **Z-score**
+- Created 6 new features (interaction features, metabolic score, binary indicators)
+- Applied **SMOTETomek** for class imbalance handling
+- Evaluated 7 models: Logistic Regression, Decision Tree, Random Forest, Neural Network, KNN, Naive Bayes, Stacking Classifier
+- **Best Model**: Stacking Classifier (78% accuracy, AUC 0.8117)
+- **Highest AUC**: Random Forest (0.8224)
+- Deployed using **Flask** and **Streamlit** with interactive web interface
+
+[🔗 View Repository]()  
+
+---
+
 ### 🧾 POS System
 *Python | CRUD | File Handling*
 
