@@ -77,17 +77,6 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 ## Projects
 
-### ⚙️ Job Sequence Problem -- Delivery Scheduling System
-*Java | Data Structure and Algorithm | ArrayList | PriorityQueue*
-
-- Accept delivery orders to maximize total profit while meeting delivery deadline
-- Implemented job scheduling algorithm to optimize task completion
-- Used: Greedy, Task Priority Scheduling (Weighted), Dynamic Programming, Earliest Deadline First (EDF)
-
-[🔗 View Repository](https://github.com/teehere/Job-Sequence-Problem) | [LiveDemo](https://youtu.be/yTVHgnHJgdQ)
-
----
-
 ### Diabetes Prediction by Using Machine Learning
 *Python | EDA | Data Cleaning | Feature Engineering | Model Building*
 
@@ -100,6 +89,29 @@ _**Note:** This card shows language usage based on file size in public repositor
 - **Highest AUC Model**: Random Forest (0.8224)
 
 [🔗 View Repository](https://github.com/teehere/Diabetes-Prediction-Using-Machine-Learning)  
+
+---
+
+### 📊 Data Visualization & Reporting
+*Power BI | Dax | Power Query*
+
+- Transformed raw datasets into meaningful visual reports
+- Used **Power Query** for data cleaning, transformation, and merging
+- Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
+- Designed visual reports for business decision-making
+
+[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
+
+---
+
+### ⚙️ Job Sequence Problem -- Delivery Scheduling System
+*Java | Data Structure and Algorithm | ArrayList | PriorityQueue*
+
+- Accept delivery orders to maximize total profit while meeting delivery deadline
+- Implemented job scheduling algorithm to optimize task completion
+- Used: Greedy, Task Priority Scheduling (Weighted), Dynamic Programming, Earliest Deadline First (EDF)
+
+[🔗 View Repository](https://github.com/teehere/Job-Sequence-Problem) | [LiveDemo](https://youtu.be/yTVHgnHJgdQ)
 
 ---
 
@@ -136,18 +148,6 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Data store in text file
 
 [🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System) | [LiveDemo](https://youtu.be/dHpP9Q9Uipo)
-
----
-
-### 📊 Data Visualization & Reporting
-*Power BI | Dax | Power Query*
-
-- Transformed raw datasets into meaningful visual reports
-- Used **Power Query** for data cleaning, transformation, and merging
-- Created **DAX measures** for complex calculations (YTD, MoM growth, dynamic filtering)
-- Designed visual reports for business decision-making
-
-[🔗 View Repository](https://github.com/teehere/Data-Visualization-and-Reporting-) | [LiveDemo](https://youtu.be/-MhoEDyTiiU)
 
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/your-username) -->
 
