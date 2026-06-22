@@ -96,9 +96,8 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Created 6 new features (interaction features, metabolic score, binary indicators)
 - Applied **SMOTETomek** for class imbalance handling
 - Evaluated 7 models: Logistic Regression, Decision Tree, Random Forest, Neural Network, KNN, Naive Bayes, Stacking Classifier
-- **Best Model**: Stacking Classifier (78% accuracy, AUC 0.8117)
-- **Highest AUC**: Random Forest (0.8224)
-- Deployed using **Flask** and **Streamlit** with interactive web interface
+- **Highest Accuracy Model**: Stacking Classifier (78% accuracy, AUC 0.8117)
+- **Highest AUC Model**: Random Forest (0.8224)
 
 [🔗 View Repository](https://github.com/teehere/Diabetes-Prediction-Using-Machine-Learning)  
 
