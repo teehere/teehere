@@ -77,6 +77,15 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 ## Projects
 
+### Google-adk-agent
+*Cloud Shell | Vertex AI*
+
+- Built AI-agent by using vertex ai api on google cloud shell
+  
+[🔗 View Repository](https://github.com/teehere/google-adk-agent)
+
+---
+
 ### Diabetes Prediction by Using Machine Learning
 *Python | EDA | Data Cleaning | Feature Engineering | Model Building*
 
@@ -89,15 +98,6 @@ _**Note:** This card shows language usage based on file size in public repositor
 - **Highest AUC Model**: Random Forest (0.8224)
 
 [🔗 View Repository](https://github.com/teehere/Diabetes-Prediction-Using-Machine-Learning)  
-
----
-
-### Google-adk-agent
-*Cloud Shell | Vertex AI*
-
-- Built AI-agent by using vertex ai api on google cloud shell
-  
-[🔗 View Repository](https://github.com/teehere/google-adk-agent)
 
 ---
 
