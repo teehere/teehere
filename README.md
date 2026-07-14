@@ -92,6 +92,15 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 ---
 
+### Google-adk-agent
+*Cloud Shell | Vertex AI*
+
+- Built AI-agent by using vertex ai api on google cloud shell
+  
+[🔗 View Repository](https://github.com/teehere/google-adk-agent)
+
+---
+
 ### 📊 Data Visualization & Reporting
 *Power BI | Dax | Power Query*
 
