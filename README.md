@@ -77,6 +77,16 @@ _**Note:** This card shows language usage based on file size in public repositor
 
 ## Projects
 
+### AI-Powered Book Summary System
+*Cloud Shell | Vertex AI*
+
+- Built LLM application by using langchain, to perform book summary, publication date, and author information
+- Used Google Gemini AI as LLM model 
+  
+[🔗 View Repository](https://github.com/teehere/google-adk-agent)
+
+---
+
 ### Google-adk-agent
 *Cloud Shell | Vertex AI*
 
