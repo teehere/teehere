@@ -19,10 +19,12 @@
 
 </div>
 
+<!--
 ## About Me
 🎓 Pursuing Degree... <br />
 
 Passionate about turning data into actionable insights. The applied math background brings a strong foundation in statistics, linear algebra, and optimization, which can combine with certain programming language to build practical solutions.
+-->
 
 ## Tech Stack
 <!-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
@@ -144,7 +146,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 [🔗 View Repository](https://github.com/teehere/POS_System) | [LiveDemo](https://youtu.be/qssYV3Tnn2s)
 
 ---
-
+<!--
 ### 🏕️ Campsite Reservation System
 *Java | OOP Design*
 
@@ -167,6 +169,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Data store in text file
 
 [🔗 View Repository](https://github.com/teehere/Food_Stalls_Tracking_and_Review_System) | [LiveDemo](https://youtu.be/dHpP9Q9Uipo)
+-->
 
 <!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/your-username) -->
 
