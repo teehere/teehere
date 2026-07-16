@@ -83,7 +83,7 @@ _**Note:** This card shows language usage based on file size in public repositor
 - Built LLM application by using langchain, to perform book summary, publication date, and author information
 - Used Google Gemini AI as LLM model 
   
-[🔗 View Repository](https://github.com/teehere/google-adk-agent)
+[🔗 View Repository](https://github.com/teehere/book-summary-application)
 
 ---
 
